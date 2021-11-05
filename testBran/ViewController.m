@@ -18,6 +18,8 @@
     // Do any additional setup after loading the view.
     NSLog(@"我添加了主干上");
     NSLog(@"分支创建完后添加");
+    
+    NSLog(@"创建代码并合并分支");
 }
 
 
